@@ -1,0 +1,5 @@
+
+
+lateinit
+- init -> 초기값 세팅
+- late -> 늦게 나중에
